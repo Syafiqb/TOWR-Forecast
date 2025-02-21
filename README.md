@@ -22,7 +22,6 @@ How can we identify patterns, trends, and factors influencing the changes in TOW
 
 ## Data Understanding
 ### Data Source
-The dataset used is TOWR stock prices from February 2021 to early February 2025. The dataset is formatted in .csv (Comma-Separated Values) format. It is provided by the Purwadhika Data Science Class Academic Team and can be accessed through the following link:
-[Dataset Link](#)
+The dataset used is TOWR stock prices from February 2021 to early February 2025. The dataset is formatted in .csv (Comma-Separated Values) format. It is provided by the Purwadhika Data Science Class Academic Team.
 
 📈 Let’s analyze and unlock insights! 💡
